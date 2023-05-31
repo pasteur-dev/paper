@@ -9,8 +9,7 @@
 </h1>
 
 This repository contains the supplemental materials for the paper 
-"Pasteur: Scaling Private Data Synthesis", including an 
-[extended version](./pasteur_extended.pdf) of the paper.
+"Pasteur: Scaling Private Data Synthesis".
 The source code of the system Pasteur is found in the main repository
 [github.com/pasteur-dev/pasteur](https://github.com/pasteur-dev/pasteur) and
 the version used for the paper is tagged with `paper`.
